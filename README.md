@@ -8,10 +8,10 @@ such as user management, course creation, enrollment, quiz creation, and quiz pa
 Features:
 
 -  User Registration and Login (Admin, Instructor, Student)
-- 📚 Course Management (Create, View, Enroll)
-- 📝 Quiz Creation & Participation
-- 📁 File-based Persistent Storage
-- 🎯 Role-specific Menus & Permissions
+-  Course Management (Create, View, Enroll)
+-  Quiz Creation & Participation
+-  File-based Persistent Storage
+-  Role-specific Menus & Permissions
 
 
 
